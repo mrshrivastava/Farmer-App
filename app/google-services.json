@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417323593101",
+    "firebase_url": "https://farming-99d4c-default-rtdb.firebaseio.com",
+    "project_id": "farming-99d4c",
+    "storage_bucket": "farming-99d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417323593101:android:89b49a08cd6b63a0fca1c4",
+        "android_client_info": {
+          "package_name": "com.example.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417323593101-p6m15cj3jhj6j5bn8dpq9to20qd9vhnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LUVu_G1jV1cYamZT4YufkxhGplT3Zmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417323593101-p6m15cj3jhj6j5bn8dpq9to20qd9vhnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
